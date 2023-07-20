@@ -18,7 +18,7 @@ Nivel: **Fácil**
 
 Nesse problema você pode resolver de duas maneiras:
   - Utilizar a linguagem python para fazer e exponenciação e fazer a contagem dos dígitos transformando o resultando em string;
-  - Usar de conceitos matemáticos onde o número de dígitos podem ser representados a partir da fórmula: $\floor(m * log_{10}(n)) + 1$.
+  - Usar de conceitos matemáticos onde o número de dígitos podem ser representados a partir da fórmula: $\lfloor m * log_{10}(n) \rfloor + 1$.
 
 ## Kage Bunshin no Jutsu
 
